@@ -193,15 +193,15 @@ collections:
   news:
     defaults:
       layout: post
-    output: false
+    output: true
     permalink: /:collection/:title/
   projects:
-    output: false
+    output: true
     permalink: /:collection/:title/
 
 announcements:
   enabled: false
-  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
