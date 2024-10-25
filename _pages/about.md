@@ -15,7 +15,7 @@ profile:
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 Welcome to my website! I am a physics undergraduate student at The Open University in the UK. Here, you will find the PDFs of my publications, information about my research interests, teaching activities, my CV, and any other information I wish to share with the world!
 
