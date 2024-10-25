@@ -1,5 +1,5 @@
 ---
-layout: research
+layout: profiles
 permalink: /research/
 title: research
 description: members of the lab or group
