@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /research/
 title: research
-description: members of the lab or group
+description: Quantum mechanics: topological effects in quantum mechanics, Aharonov-Bohm effect, geometric phases, anyons, skyrmions, quantum interference effects, conservation theorems in quantum mechanics, Bohmian mechanics, semiclassical wave functions, gravitational quantum physics, interface between quantum theory and gravity.
 nav: true
 nav_order: 3
 
