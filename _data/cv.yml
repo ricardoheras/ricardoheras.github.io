@@ -1,10 +1,12 @@
-- title: General Information
+- title: Academic Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+    - name: Name
+      value: Ricardo Heras
+    - name: Role 
+      value: PhD student of theoretical physics   
+    - name: Email 
+      value: RXH579@student.bham.ac.uk
     - name: Languages
       value: English, German
 
