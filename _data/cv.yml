@@ -3,18 +3,22 @@
   contents:
     - name: Name
       value: Ricardo Heras
+    - name: Institution  
+      value: University of Birmingham
+    - name: Affiliation
+      value: Theory group, School of Physics and Astronomy
     - name: Role 
       value: PhD student in theoretical physics
-    - name: Institution
-      value: Theory group, School of Physics and Astronomy, University of Birmingham     
     - name: Email 
       value: RXH579@bham.ac.uk
     - name: Website 
       value: <a href="https://ricardoheras.github.io/">ricardoheras.github.io</a>
     - name: ORCID
       value: <a href="https://orcid.org/0000-0003-1234-2481">0000-0003-1234-2481</a>
-      
-    
+    - name: Google Scholar
+      value: <a href="https://scholar.google.com/citations?user=FkIaFC0AAAAJ&hl=en">link</a>  
+    - name: ResearchGate
+      value: <a href="https://www.researchgate.net/profile/link">Ricardo-Heras</a>
   
 
 
