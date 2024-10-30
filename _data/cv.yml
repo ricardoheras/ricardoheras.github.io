@@ -18,9 +18,19 @@
     - name: Google Scholar
       value: <a href="https://scholar.google.com/citations?user=FkIaFC0AAAAJ&hl=en">link</a>  
     - name: ResearchGate
-      value: <a href="https://www.researchgate.net/profile/link">Ricardo-Heras</a>
+      value: <a href="https://www.researchgate.net/profile/link">link</a>
   
-
+- title: Research Interests
+  type: nested_list
+  contents:
+    - title: Topic 1.
+      items:
+        - Description 1.
+        - Description 2.
+    - title: Topic 2.
+      items:
+        - Description 1.
+        - Description 2.
 
 
 - title: Education
