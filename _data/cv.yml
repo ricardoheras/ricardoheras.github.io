@@ -54,12 +54,12 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
+    - title: BSc (Honours) Physics
       institution: The Open University, Milton Keynes, UK 
       year: 09/2021-09/2024
       description:
-        - Science project module SXP390. <b>New approach to the Aharonov-Bohm effect</b>
-        - Description 2.
+        - Degree clasification. 2.1
+        - Science project module SXP390. <i>New approach to the Aharonov-Bohm effect</i>
 
 - title: Experience
   type: time_table
