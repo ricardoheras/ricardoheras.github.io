@@ -12,7 +12,9 @@
     - name: Website 
       value: <a href="https://ricardoheras.github.io/">ricardoheras.github.io</a>
     - name: ORCID
-      value: 0000-0003-1234-2481
+      value: <a href="https://orcid.org/0000-0003-1234-2481">0000-0003-1234-2481</a>
+      
+    
   
 
 
