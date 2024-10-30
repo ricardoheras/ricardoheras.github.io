@@ -4,11 +4,30 @@
     - name: Name
       value: Ricardo Heras
     - name: Role 
-      value: PhD student of theoretical physics   
+      value: PhD student in theoretical physics
+   - name: Institution
+      value: Theory group, School of Physics and Astronomy, University of Birmingham     
     - name: Email 
       value: RXH579@student.bham.ac.uk
-    - name: Languages
-      value: English, German
+    - name: Website 
+      value: https://ricardoheras.github.io/
+    - name: ORCID
+      value: 0000-0003-1234-2481
+  
+    
+
+- title: Research Interests
+  type: nested_list
+  contents:
+    - title: Quantum Mechanics
+      items:
+        - Topological effects: hhh 
+        - Description 2
+    - title: Topic 2.
+      items:
+        - Description 1.
+        - Description 2.
+
 
 - title: Education
   type: time_table
