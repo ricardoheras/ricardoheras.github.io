@@ -18,14 +18,14 @@
     - name: Google Scholar
       value: <a href="https://scholar.google.com/citations?user=FkIaFC0AAAAJ&hl=en">FkIaFC0AAAAJ&hl</a>  
     - name: ResearchGate
-      value: <a href="https://www.researchgate.net/profile/link">Ricardo-Heras</a>
+      value: <a href="https://www.researchgate.net/profile/Ricardo-Heras">Ricardo-Heras</a>
   
 - title: Research Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Quantum Mechanics
       items:
-        - Description 1.
+        - <b>Topological phenomena.</b> Aharonov-Bohm effect, geometric phases, anyons, skyrmions
         - Description 2.
     - title: Topic 2.
       items:
