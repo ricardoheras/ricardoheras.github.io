@@ -26,8 +26,16 @@
     - title: Quantum Mechanics
       items:
         - <b>Topological phenomena.</b> Aharonov-Bohm effect, geometric phases, anyons, skyrmions
+        - <b>Interference phenomena.</b>  
+    - title: Optics.
+      items:
+        - Description 1.
         - Description 2.
-    - title: Topic 2.
+    - title: Classical Field Theory.
+      items:
+        - Description 1.
+        - Description 2.
+    - title: Quantum field theory
       items:
         - Description 1.
         - Description 2.
@@ -37,8 +45,8 @@
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905-1907 
+      institution: University of Birmingham, Birmingham, UK
+      year: 01/2025-present 
       description:
         - Description 1.
         - Description 2.
@@ -47,10 +55,10 @@
             - Sub-description 1.
             - Sub-description 2.
     - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+      institution: The Open University, Milton Keynes, UK 
+      year: 09/2021-09/2024
       description:
-        - Description 1.
+        - Science project module SXP390. <b>New approach to the Aharonov-Bohm effect</b>
         - Description 2.
 
 - title: Experience
