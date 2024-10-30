@@ -10,21 +10,10 @@
     - name: Email 
       value: RXH579@student.bham.ac.uk
     - name: Website 
-      value:  [ricardoheras.github.io](https://ricardoheras.github.io/)
+      value: [ricardoheras.github.io](https://ricardoheras.github.io/)
     - name: ORCID
       value: 0000-0003-1234-2481
   
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
 
 
 
