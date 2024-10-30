@@ -8,7 +8,7 @@ profile:
   align: right
   image: pic.jpg
   image_circular: false # crops the image to make it circular
-  image_width: 70%
+  image_width: 100px
   more_info: #>
     # <p>555 your office number</p>
     # <p>123 your address street</p>
