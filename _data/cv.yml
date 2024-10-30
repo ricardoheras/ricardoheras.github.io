@@ -16,18 +16,6 @@
   
     
 
-- title: Research Interests
-  type: nested_list
-  contents:
-    - title: Quantum Mechanics
-      items:
-        - Topological effects: hhh 
-        - Description 2
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
 
 - title: Education
   type: time_table
