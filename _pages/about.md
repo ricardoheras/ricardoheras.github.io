@@ -7,8 +7,7 @@ subtitle:  # <a href='#'>University of Birmingham</a>. Address. Contacts. Motto.
 profile:
   align: right
   image: pic.jpg
-  image_circular: false # crops the image to make it circular
-  image_width: 100px
+  image_circular: false # crops the image to make it circular 
   more_info: #>
     # <p>555 your office number</p>
     # <p>123 your address street</p>
