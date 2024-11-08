@@ -16,7 +16,7 @@
     - name: ORCID
       value: <a href="https://orcid.org/0000-0003-1234-2481">0000-0003-1234-2481</a>
     - name: Google Scholar
-      value: <a href="https://scholar.google.com/citations?user=FkIaFC0AAAAJ&hl=en">FkIaFC0AAAAJ&hl</a>  
+      value: <a href="https://scholar.google.com/citations?user=FkIaFC0AAAAJ&hl=en">FkIaFC0AAAAJ</a>  
     - name: ResearchGate
       value: <a href="https://www.researchgate.net/profile/Ricardo-Heras">Ricardo-Heras</a>
   
