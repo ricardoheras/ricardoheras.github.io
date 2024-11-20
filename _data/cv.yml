@@ -8,7 +8,7 @@
     - name: Affiliation
       value: Theory group, School of Physics and Astronomy
     - name: Role 
-      value: PhD student in theoretical physics...
+      value: PhD student in theoretical physics
     - name: Email 
       value: RXH579@bham.ac.uk 
     - name: Website 
@@ -46,7 +46,7 @@
   contents:
     - title: PhD
       institution: University of Birmingham, Birmingham, UK
-      year: 01/2025-present 
+      year: Jan 2025-present 
       description:
         - Description 1.
         - Description 2.
@@ -56,7 +56,7 @@
             - Sub-description 2.
     - title: BSc (Honours) Physics
       institution: The Open University, Milton Keynes, UK 
-      year: 09/2021-09/2024
+      year: 2021-2024
       description:
         - Degree clasification. 2.1
         - Science project module SXP390. <i>New approach to the Aharonov-Bohm effect</i>
