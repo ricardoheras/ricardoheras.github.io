@@ -25,12 +25,14 @@
   contents:
     - title: Quantum Mechanics
       items:
-        - <b>Topological phenomena.</b> Aharonov-Bohm effect, geometric phases, anyons, skyrmions
-        - <b>Quantum Interference phenomena.</b>  
+        - <b>Topological phenomena.</b> Aharonov-Bohm effect, geometric phases, anyons, magnetic skyrmions.
+        - <b>Quantum Interference phenomena.</b> Entangled state interference, Quantum decoherence.
+        - <b>Formalism.</b> Bohmian mechanics, semi-classical waves.
     - title: Optics.
       items:
-        - <b>Angular momentum of ligth</b> Orbital angular momentum
-        - Description 2.
+        - <b>Angular momentum of ligth</b> Orbital angular momentum, Spin angular momentum, Decomposition 
+        theorem of electromagnetic angular momentum.
+        - <b>Structured ligth</b> Optical skyrmions. 
     - title: Classical Field Theory
       items:
         - Description 1.
