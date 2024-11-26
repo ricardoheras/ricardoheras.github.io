@@ -13,10 +13,10 @@
       value: RXH579@bham.ac.uk 
     - name: Website 
       value: <a href="https://ricardoheras.github.io/">ricardoheras.github.io</a>
+    - name: Google Scholar
+      value: <a href="https://scholar.google.com/citations?user=FkIaFC0AAAAJ&hl=en">FkIaFC0AAAAJ</a> 
     - name: ORCID
       value: <a href="https://orcid.org/0000-0003-1234-2481">0000-0003-1234-2481</a>
-    - name: Google Scholar
-      value: <a href="https://scholar.google.com/citations?user=FkIaFC0AAAAJ&hl=en">FkIaFC0AAAAJ</a>  
     - name: ResearchGate
       value: <a href="https://www.researchgate.net/profile/Ricardo-Heras">Ricardo-Heras</a>
   
@@ -27,7 +27,7 @@
       items:
         - <b>Topological phenomena.</b> Aharonov-Bohm effect, geometric phases, anyons, magnetic skyrmions.
         - <b>Quantum interference.</b> Entangled states, Quantum decoherence, quantum non-locality.
-        - <b>Formal aspects aspects.</b> Bohmian mechanics, semi-classical waves, conservations theorems in quantum mechanics.
+        - <b>Formal aspects.</b> Bohmian mechanics, semi-classical waves, conservations theorems in quantum mechanics.
     - title: Optics
       items:
         - <b>Angular momentum of ligth</b> Orbital angular momentum, Spin angular momentum, Boundary effects of angular momentum.
@@ -39,7 +39,7 @@
       items:
         - <b>Electromagnetic angular momentum.</b> Decomposition theorems of electromagnetic angular momentum.
         - <b>Electromagnetic radiation.</b> Liénard-Wiechert fields, radiation reaction.
-        - <b>Formal aspects.</b> Conservation theorems of interacting electromagnetic systems, 
+        - <b>Formal aspects.</b> Conservation theorems of interacting electromagnetic systems.
       
 
 
@@ -64,7 +64,7 @@
         - Science project module SXP390. <i>New approach to the Aharonov-Bohm effect</i>.
 
 - title: Experience
-  type: time_table
+   type: time_table
   contents:
     - title: Professor of Theoretical Physics
       institution: Institute for Advanced Study, Princeton University
