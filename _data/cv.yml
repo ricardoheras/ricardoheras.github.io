@@ -3,7 +3,7 @@
   contents:
     - name: Name
       value: Ricardo Heras
-    - name: Institution  
+    - name: Present institution  
       value: University of Birmingham
     - name: Affiliation
       value: Theory group, School of Physics and Astronomy
@@ -26,20 +26,21 @@
     - title: Quantum Mechanics
       items:
         - <b>Topological phenomena.</b> Aharonov-Bohm effect, geometric phases, anyons, magnetic skyrmions.
-        - <b>Quantum Interference phenomena.</b> Entangled state interference, Quantum decoherence.
-        - <b>Formalism.</b> Bohmian mechanics, semi-classical waves.
-    - title: Optics.
+        - <b>Quantum interference.</b> Entangled states, Quantum decoherence, quantum non-locality.
+        - <b>Formal aspects aspects.</b> Bohmian mechanics, semi-classical waves, conservations theorems in quantum mechanics.
+    - title: Optics
       items:
-        - <b>Angular momentum of ligth</b> Orbital angular momentum, Spin angular momentum, Decomposition theorem of electromagnetic angular momentum.
-        - <b>Structured ligth</b> Optical skyrmions. 
-    - title: Classical Field Theory.
+        - <b>Angular momentum of ligth</b> Orbital angular momentum, Spin angular momentum, Boundary effects of angular momentum.
+        - <b>Topological phenomena</b> Optical skyrmions, field line helicity, structured ligth. 
+    - title: Quantum field theory
       items:
-        - Description 1.
-        - Description 2.
-    - title: Quantum field theory.
+        - <b>Electromagnetic duality.</b> Magnetic monopoles and dyons.
+    - title: Classical field theory
       items:
-        - Description 1.
-        - Description.
+        - <b>Electromagnetic angular momentum.</b> Decomposition theorems of electromagnetic angular momentum.
+        - <b>Electromagnetic radiation.</b> Liénard-Wiechert fields, radiation reaction.
+        - <b>Formal aspects.</b> Conservation theorems of interacting electromagnetic systems, 
+      
 
 
 - title: Education
@@ -47,7 +48,7 @@
   contents:
     - title: PhD
       institution: University of Birmingham, Birmingham, UK
-      year: Jan 2025- 
+      year: 01/2025- 
       description:
         - Description 1.
         - Description 2.
@@ -57,10 +58,10 @@
             - Sub-description 2.
     - title: BSc (Honours) Physics
       institution: The Open University, Milton Keynes, UK 
-      year: 2021-2024
+      year: 09/2021-09/2024
       description:
-        - Degree clasification. 2.1
-        - Science project module SXP390. <i>New approach to the Aharonov-Bohm effect</i>
+        - Degree clasification. <i>2.1</i>.
+        - Science project module SXP390. <i>New approach to the Aharonov-Bohm effect</i>.
 
 - title: Experience
   type: time_table
