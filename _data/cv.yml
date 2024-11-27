@@ -62,7 +62,8 @@
       description:
         - Degree clasification. 2.1.
         - title: Project module SXP390. 
-        - contents: <i>New approach to the Aharonov-Bohm effect</i>.
+          contents: 
+            - <i>New approach to the Aharonov-Bohm effect</i>.
 
 
 
