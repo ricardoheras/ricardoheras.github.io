@@ -64,7 +64,7 @@
         - Science project module SXP390. <i>New approach to the Aharonov-Bohm effect</i>.
 
 - title: Experience
-   type: time_table
+  type: time_table
   contents:
     - title: Professor of Theoretical Physics
       institution: Institute for Advanced Study, Princeton University
