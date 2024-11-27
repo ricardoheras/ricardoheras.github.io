@@ -50,43 +50,42 @@
       institution: University of Birmingham, Birmingham, UK
       year: 01/2025- 
       description:
-        - Research Topic. Topological physics.
-        #- Description 2.
-        #- title: Description 3
-        #  contents:
-        #    - Sub-description 1.
-        #    - Sub-description 2.
+        - Description 1.
+        - Description 2.
+        - title: Description 3
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
     - title: BSc (Honours) Physics
       institution: The Open University, Milton Keynes, UK 
       year: 09/2021-10/2024
       description:
-        - Degree classification. 2.1.
-        - title: Science project module. 
-        - contents: 
-         - <i>New approach to the Aharonov-Bohm effect</i>.
+        - Degree clasification. 2.1.
+        - title: Project module SXP390. 
+        - title: <i>New approach to the Aharonov-Bohm effect</i>.
 
 
 
 
-#- title: Experience
-#  type: time_table
-#  contents:
-#    - title: Professor of Theoretical Physics
-#      institution: Institute for Advanced Study, Princeton University
-#      year: 1933 - 1955
-#      description:
-#        - Description 1.
-#        - Description 2.
-#        - title: Description 3.
-#          contents:
-#            - Sub-description 1.
-#            - Sub-description 2.
-#    - title: Visiting Professor
-#      institution: California Institute of Technology, Pasadena, California, US
-#      year: 1933
-#      description:
-#        - Description 1.
-#        - Description 2.
+- title: Experience
+  type: time_table
+  contents:
+    - title: Professor of Theoretical Physics
+      institution: Institute for Advanced Study, Princeton University
+      year: 1933 - 1955
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Visiting Professor
+      institution: California Institute of Technology, Pasadena, California, US
+      year: 1933
+      description:
+        - Description 1.
+        - Description 2.
 
     - title: Director
       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
