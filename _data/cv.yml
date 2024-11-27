@@ -25,7 +25,7 @@
   contents:
     - title: Quantum Mechanics.
       items:
-        - <b>Topological phenomena.</b> Aharonov-Bohm effect, magnetic monopoles, geometric phases, anyons, magnetic skyrmions.
+        - <b>Topological aspects.</b> Aharonov-Bohm effect, magnetic monopoles, geometric phases, anyons, magnetic skyrmions.
         - <b>Quantum interference.</b> Entangled states, quantum decoherence, quantum non-locality.
         - <b>Formal aspects.</b> Bohmian mechanics, semi-classical waves, conservations theorems in quantum mechanics.
     - title: Optics
@@ -60,7 +60,7 @@
       institution: The Open University, Milton Keynes, UK 
       year: 09/2021-10/2024
       description:
-        - Degree clasification. <b>2.1</b>.
+        - Degree clasification. 2.1.
         - Science project module SXP390. <i>New approach to the Aharonov-Bohm effect</i>.
 
 - title: Experience
