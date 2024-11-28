@@ -70,11 +70,7 @@
   contents:
     - title: R. Heras, The Aharonov-Bohm effect in a closed flux line, <a href="https://doi.org/10.1140/epjp/s13360-022-02832-2">Eur. Phys. J. Plus 137, 641 (2022)</a>
       year: 2022
-      description: The Aharonov-Bohm (AB) effect was verified in a convincing form with experiments 
-      involving toroidal rings. However, the theoretical treatment of this effect still relies 
-      heavily on the abstract notion of an infinitely long solenoid. My article presents a 
-      comprehensive theoretical treatment of the AB effect in a more realistic closed flux line.
-      Within this scheme, the toroidal ring is an example of a closed flux line.
+      description: 
 
 - title: Experience
   type: time_table
