@@ -26,9 +26,10 @@
     - title: Quantum Mechanics.
       items:
         - <b>Topological quantum mechanics.</b> 
-         - Aharonov-Bohm effect, magnetic monopoles, geometric phases, anyons, magnetic skyrmions.
-         - <b>Quantum interference.</b> Entangled states, quantum decoherence, quantum non-locality.
-         - <b>Formal aspects.</b> Bohmian mechanics, semi-classical waves, conservations theorems in quantum mechanics.
+      subitems:  
+        - Aharonov-Bohm effect, magnetic monopoles, geometric phases, anyons, magnetic skyrmions.
+        - <b>Quantum interference.</b> Entangled states, quantum decoherence, quantum non-locality.
+        - <b>Formal aspects.</b> Bohmian mechanics, semi-classical waves, conservations theorems in quantum mechanics.
     - title: Optics
       items:
         - <b>Angular momentum of ligth.</b> Orbital angular momentum, spin angular momentum, boundary effects of light's angular momentum.
@@ -62,7 +63,7 @@
       year: 09/2021-10/2024
       description:
         - Degree clasification. 2.1.
-        - title: Science project course SXP390. Radiation and matter
+        - title: Science project course SXP390 <i>:</i> Radiation and matter
           contents: 
             - <i>New approach to the Aharonov-Bohm effect</i>
 
