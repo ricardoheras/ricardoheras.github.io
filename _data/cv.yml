@@ -25,11 +25,10 @@
   contents:
     - title: Quantum Mechanics.
       items:
-        - <b>Topological quantum mechanics</b> 
-        items:
-         - Aharonov-Bohm effect, magnetic monopoles, geometric phases, anyons, magnetic skyrmions.
-         - <b>Quantum interference.</b> Entangled states, quantum decoherence, quantum non-locality.
-         - <b>Formal aspects.</b> Bohmian mechanics, semi-classical waves, conservations theorems in quantum mechanics.
+        - <b>Topological quantum mechanics.</b> 
+        - Aharonov-Bohm effect, magnetic monopoles, geometric phases, anyons, magnetic skyrmions.
+        - <b>Quantum interference.</b> Entangled states, quantum decoherence, quantum non-locality.
+        - <b>Formal aspects.</b> Bohmian mechanics, semi-classical waves, conservations theorems in quantum mechanics.
     - title: Optics
       items:
         - <b>Angular momentum of ligth.</b> Orbital angular momentum, spin angular momentum, boundary effects of light's angular momentum.
