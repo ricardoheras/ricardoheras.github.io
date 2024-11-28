@@ -51,11 +51,11 @@
       year: 01/2025- 
       description:
         - Description 1.
-        - Description 2.
-        - title: Description 3
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        #- Description 2.
+        #- title: Description 3
+        #  contents:
+        #    - Sub-description 1.
+        #    - Sub-description 2.
     - title: BSc (Honours) Physics
       institution: The Open University, Milton Keynes, UK 
       year: 09/2021-10/2024
