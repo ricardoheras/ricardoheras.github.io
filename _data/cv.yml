@@ -25,11 +25,11 @@
   contents:
     - title: Quantum Mechanics.
       items:
-       - title: <b>Topological quantum mechanics.</b> 
-         contents:
-          - title: Aharonov-Bohm effect, magnetic monopoles, geometric phases, anyons, magnetic skyrmions, magnetic hopfions, knotted fields in quantum theory
-          - title: <b>Quantum interference.</b> Entangled states, quantum decoherence, quantum non-locality
-          - title: <b>Quantum waves.</b> Bohmian mechanics, WKB approximation, semi-classical waves 
+        - title: <b>Topological quantum mechanics.</b> 
+          details: 
+           - Aharonov-Bohm effect, magnetic monopoles, geometric phases, anyons, magnetic skyrmions, magnetic hopfions, knotted fields in quantum theory
+           - <b>Quantum interference.</b> Entangled states, quantum decoherence, quantum non-locality
+           - <b>Quantum waves.</b> Bohmian mechanics, WKB approximation, semi-classical waves 
         
     - title: Optics
       items:
