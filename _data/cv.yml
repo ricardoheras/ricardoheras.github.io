@@ -36,8 +36,8 @@
 
     - title: Classical field theory
       items:
-        - <b>Electrodynamics of interacting system.</b> Conservations theorems of intearcting electromagnetic systems
-        - <b>Electromagnetic angular momentum.</b> Decomposition theorems of electromagnetic angular momentum
+        - <b>Electrodynamics of interacting systems.</b> Conservations theorems of energy, momentum, and stresses of two independent systems of Maxwell's equations
+        - <b>Electromagnetic angular momentum.</b> Decomposition theorems of electromagnetic angular momentum, boundary effects of electromagnetic angular momentum
         - <b>Electromagnetic radiation.</b> Liénard-Wiechert fields, radiation reaction
       
       
@@ -60,7 +60,7 @@
       institution: The Open University, Milton Keynes, UK 
       year: 09/2021-10/2024
       description:
-        - Degree clasification. 2.1.
+        - Degree clasification. 2.1
         - title: Science project course SXP390. Radiation and matter
           contents: 
           - <i>New approach to the Aharonov-Bohm effect</i>
@@ -71,10 +71,8 @@
   contents:
     - title: R. Heras, The Aharonov-Bohm effect in a closed flux line, <a href="https://doi.org/10.1140/epjp/s13360-022-02832-2">Eur. Phys. J. Plus 137, 641 (2022)</a>
       year: 2022
-      description: <b>Summary</b>. The Aharonov-Bohm (AB) effect was verified with experiments involving toroidal rings. However, the theoretical treatment of this effect still relies heavily on the abstract notion of an infinitely long solenoid. My article presents a comprehensive theoretical treatment of the AB effect in a more realistic closed flux line. Within this scheme, the toroidal ring is an example of a closed flux line
-      #description: <b>Introduced ideas</b>. (i) I introduce a set of topological invariances of the AB phase in a closed flux line. According to these invariances, the AB phase in a closed flux line is invariant under deformations of the charge path, deformations of the closed flux line, simultaneous deformations of the charge path and the closed flux line, and the mutual exchange between the charge path and the closed flux line. (ii) I introduce a gauge in which the vector potential of a closed flux line vanishes in all space except the surface bounded by it. Considering this gauge, I argue that the vector potential has no physical meaning in the AB effect, which supports its nonlocal interpretation.
-- title: Experience
-  type: time_table
+      #description: <b>Summary</b>. The Aharonov-Bohm (AB) effect was verified with experiments involving toroidal rings. However, the theoretical treatment of this effect still relies heavily on the abstract notion of an infinitely long solenoid. My article presents a comprehensive theoretical treatment of the AB effect in a more realistic closed flux line. Within this scheme, the toroidal ring is an example of a closed flux line
+      description: <b>Introduced ideas</b>. (i) Topological invariances of the Aharono-Bohm phase in a closed flux line. (ii) A new gauge in the vector potential of a closed flux line 
   contents:
     - title: Professor of Theoretical Physics
       institution: Institute for Advanced Study, Princeton University
