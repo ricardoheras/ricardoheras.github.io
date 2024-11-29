@@ -23,20 +23,21 @@
 - title: Research Interests
   type: nested_list
   contents:
-    - title: Quantum Mechanics.
+    - title: Quantum Mechanics
       items:
-        - <b>Topological quantum mechanics.</b> Aharonov-Bohm effect, magnetic monopoles, geometric phases, anyons, magnetic skyrmions, magnetic hopfions, knotted fields in quantum theory
+        - <b>Topological quantum.</b> Aharonov-Bohm effect, magnetic monopoles, geometric phases, anyons, magnetic skyrmions, magnetic hopfions, knotted fields in quantum theory
         - <b>Quantum interference.</b> Entangled states, quantum decoherence, quantum non-locality
         - <b>Quantum waves.</b> Bohmian mechanics, WKB approximation, semi-classical waves 
         
     - title: Optics
       items:
         - <b>Angular momentum of ligth.</b> Orbital angular momentum, spin angular momentum, boundary effects of light's angular momentum
-        - <b>Topological phenomena.</b> Optical skyrmions, field line helicity
+        - <b>Topological optics.</b> Optical skyrmions, field line helicity
 
     - title: Classical field theory
       items:
-        - <b>Electromagnetic angular momentum.</b> Decomposition theorems of electromagnetic angular momentum.
+        - <b>Electrodynamics of interacting system.</b> Conservations theorems of intearcting electromagnetic systems
+        - <b>Electromagnetic angular momentum.</b> Decomposition theorems of electromagnetic angular momentum
         - <b>Electromagnetic radiation.</b> Liénard-Wiechert fields, radiation reaction
       
       
@@ -49,7 +50,7 @@
       institution: University of Birmingham, Birmingham, UK
       year: 01/2025- 
       description:
-        - Topological physics
+        - Resarch area. Topological physics
         #- Description 2.
         #- title: Description 3
         #  contents:
@@ -62,15 +63,15 @@
         - Degree clasification. 2.1.
         - title: Science project course SXP390. Radiation and matter
           contents: 
-            - <i>New approach to the Aharonov-Bohm effect</i>
+          - <i>New approach to the Aharonov-Bohm effect</i>
 
 
-- title: Selected Publications
+- title: Selected publications
   type: time_table
   contents:
     - title: R. Heras, The Aharonov-Bohm effect in a closed flux line, <a href="https://doi.org/10.1140/epjp/s13360-022-02832-2">Eur. Phys. J. Plus 137, 641 (2022)</a>
       year: 2022
-      description: 
+      description: The Aharonov-Bohm (AB) effect was verified in a convincing form with experiments involving toroidal rings. However, the theoretical treatment of this effect still relies heavily on the abstract notion of an infinitely long solenoid. My article presents a comprehensive theoretical treatment of the AB effect in a more realistic closed flux line. Within this scheme, the toroidal ring is an example of a closed flux line
 
 - title: Experience
   type: time_table
