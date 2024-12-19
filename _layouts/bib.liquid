@@ -203,7 +203,7 @@
       {% endif %}
       {% if entry.highlight %}
         {% if entry.highlight contains '://' %}
-          <a href="{{ entry.highlight }}" class="btn btn-sm z-depth-0" role="button">highlight</a>
+          <a href="{{ entry.highlight }}" class="btn btn-sm z-depth-0" role="button">Journal Highlights</a>
         {% else %}
           <a href="{{ entry.highlight | prepend: '/assets/html/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">highlight</a>
         {% endif %}
