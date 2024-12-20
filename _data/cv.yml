@@ -87,7 +87,7 @@
       description: <b>European Journal of Physics <a href="https://iopscience.iop.org/journal/0143-0807/page/Highlights-of-2017"> Highlights collection 2017</a></b>
 
 - title: Referee for peer-reviewed journals
-  type: list
+  type: nested_list
   contents:
     - <b>The European Physical Journal Plus</b> 
     - <b>Foundations of Physics</b>
