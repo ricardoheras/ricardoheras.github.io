@@ -84,10 +84,10 @@
       #description: <b>Introduced ideas</b>. (i) I introduce a set of topological invariances of the AB phase in a closed flux line. According to these invariances, the AB phase in a closed flux line is invariant under deformations of the charge path, deformations of the closed flux line, simultaneous deformations of the charge path and the closed flux line, and the mutual exchange between the charge path and the closed flux line. (ii) I introduce a gauge in which the vector potential of a closed flux line vanishes in all space except the surface bounded by it. Considering this gauge, I argue that the vector potential has no physical meaning in the AB effect, which supports its nonlocal interpretation.
     - title: R. Heras, Alternative routes to the retarded potentials, <a href="https://doi.org/10.1088/1361-6404/aa7f18">  Eur. J. Phys. 38 055203 (2017)</a>
       year: 2017      
-      description: <b>European Journal of Physics <a href="https://iopscience.iop.org/journal/0143-0807/page/Highlights-of-2017"> Highlights collection 2017</a></b>. 
+      description: <b>European Journal of Physics <a href="https://iopscience.iop.org/journal/0143-0807/page/Highlights-of-2017"> Highlights collection 2017</a></b>
 
 - title: Referee for peer-reviewed journals
-  type: list
+  type: nested_list
   items:
     - <b>The European Physical Journal Plus</b>
     - <b>Foundations ofn Physics</b> 
