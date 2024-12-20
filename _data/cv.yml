@@ -3,10 +3,8 @@
   contents:
     - name: Name
       value: Ricardo Heras
-    - name: Present institution  
-      value: University of Birmingham
-    - name: Affiliation
-      value: Theory group, School of Physics and Astronomy
+    - name: Academic institution  
+      value: University of Birmingham (Theory group, School of Physics and Astronomy)
     - name: Role 
       value: PhD student in theoretical physics
     - name: Email 
@@ -25,18 +23,18 @@
   contents:
     - title: Quantum Mechanics
       items:
-        - <b>Topological quantum.</b> Aharonov-Bohm effect, magnetic monopoles, geometric phases, anyons, magnetic skyrmions, magnetic hopfions, knotted fields in quantum theory
+        - <b>Topological quantum effects.</b> Aharonov-Bohm effect, magnetic monopoles, geometric phases, anyons, magnetic skyrmions, magnetic hopfions, knotted fields in quantum theory
         - <b>Quantum interference.</b> Entangled states, quantum decoherence, quantum non-locality
-        - <b>Quantum waves.</b> Bohmian mechanics, WKB approximation, semi-classical waves 
+        - <b>Quantum aspects of waves.</b> Bohmian mechanics, WKB approximation, semi-classical waves 
         
     - title: Optics
       items:
-        - <b>Angular momentum of ligth.</b> Orbital angular momentum, spin angular momentum, boundary effects of light's angular momentum
+        - <b>Angular momentum of ligth.</b> Orbital angular momentum, spin angular momentum, boundary effects of the angular momentum of ligth
         - <b>Topological optics.</b> Optical skyrmions, field line helicity
 
-    - title: Classical field theory
+    - title: Classical electrodynamics
       items:
-        - <b>Electrodynamics of interacting systems.</b> Conservations theorems of energy, momentum, and stresses of two independent systems of Maxwell's equations
+        - <b>Electrodynamics of interacting systems.</b> Conservations theorems of energy, momentum, and stress of independent electromagnetic systems
         - <b>Electromagnetic angular momentum.</b> Decomposition theorems of electromagnetic angular momentum, boundary effects of electromagnetic angular momentum
         - <b>Electromagnetic radiation.</b> Liénard-Wiechert fields, radiation reaction
       
@@ -48,7 +46,7 @@
   contents:
     - title: PhD
       institution: University of Birmingham, Birmingham, UK
-      year: 01/2025- 
+      year: 01/2025-present
       description:
         - Resarch area. Topological physics
         #- Description 2.
