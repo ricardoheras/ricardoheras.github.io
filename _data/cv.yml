@@ -88,7 +88,8 @@
 
 - title: Referee for peer-reviewed journals
   type: nested_list
-  items:
+  contents:
+   items:
     - <b>The European Physical Journal Plus</b>
     - <b>Foundations ofn Physics</b> 
     - <b>Zeitschrift für Naturforschung A</b>
