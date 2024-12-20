@@ -86,14 +86,18 @@
       year: 2017      
       description: <b>European Journal of Physics <a href="https://iopscience.iop.org/journal/0143-0807/page/Highlights-of-2017"> Highlights collection 2017</a></b>
 
+  
 - title: Referee for peer-reviewed journals
   type: nested_list
   contents:
-    - title: 
-    -  items:
-    - <b>The European Physical Journal Plus</b> 
-    - <b>Foundations of Physics</b>
-    - <b>Zeitschrift für Naturforschung A</b>
+    - title: Quantum Mechanics
+      items:
+       - <b>The European Physical Journal Plus</b> 
+       - <b>Foundations of Physics</b>
+       - <b>Zeitschrift für Naturforschung A</b>
+
+
+   
 
  
  
