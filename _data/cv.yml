@@ -91,7 +91,7 @@
   type: nested_list
   contents:
   #  - title: 
-      items:
+     - items:
        - <b>The European Physical Journal Plus</b> 
        - <b>Foundations of Physics</b>
        - <b>Zeitschrift für Naturforschung A</b>
