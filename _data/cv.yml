@@ -90,7 +90,7 @@
 - title: Referee for peer-reviewed journals
   type: nested_list
   contents:
-    - title: Quantum Mechanics
+    - title: 
       items:
        - <b>The European Physical Journal Plus</b> 
        - <b>Foundations of Physics</b>
