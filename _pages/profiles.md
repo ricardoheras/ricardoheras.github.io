@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /research/
 title: research
-description: hhhhh
+description: 
 nav: true
 nav_order: 3
 
