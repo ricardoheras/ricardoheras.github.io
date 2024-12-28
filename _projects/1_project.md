@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
+title: Aharonov-Bohm effect
 description: with background image
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: Quantum Mechanics
 related_publications: true
 ---
 
