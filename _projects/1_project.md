@@ -4,7 +4,7 @@ title: Aharonov-Bohm effect
 description: with background image
 img: assets/img/12.jpg
 importance: 1
-category: Quantum Mechanics
+category: #Quantum Mechanics
 related_publications: true
 ---
 
