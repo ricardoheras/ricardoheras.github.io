@@ -5,7 +5,7 @@ permalink: /research/
 description: 
 nav: true
 nav_order: 3
-display_categories: [Quantum Mechanics, fun]
+display_categories: #[Quantum Mechanics, fun]
 horizontal: false
 ---
 
