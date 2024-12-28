@@ -1,9 +1,9 @@
 ---
 layout: profiles
-permalink: /research/
+permalink: /profiles/
 title: research
 description: 
-nav: true
+nav: false
 nav_order: 3
 
 profiles:
