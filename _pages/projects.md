@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 3
 display_categories: [Research,fun] 
-horizontal: true
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
