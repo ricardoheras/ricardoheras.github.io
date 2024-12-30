@@ -2,8 +2,8 @@
 layout: page
 title: Aharonov-Bohm effect
 permalink: /research/ab
-description: with background image
-img: assets/img/ab1.png
+description: 
+img: assets/img/ab1.jpg
 importance: 1
 category: Topological physics
 related_publications: true
