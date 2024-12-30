@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: #Materials for courses you taught. Replace this text with your description.
 nav: true
-display_categories: [Topological physics]
+display_categories: [pedagogical articles]
 nav_order: 4
 horizontal: false
 ---
