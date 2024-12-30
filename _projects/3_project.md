@@ -1,11 +1,15 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Electromagnetic angular momentum
+description: 
+img: assets/img/emam1.jpg
+#redirect: https://unsplash.com
 importance: 3
-category: work
+category: topological physics
+giscus_comments: true
+related_publications: true
+
+
 ---
 
 Every project has a beautiful feature showcase page.
