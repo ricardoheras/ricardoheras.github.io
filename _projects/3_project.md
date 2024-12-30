@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Electromagnetic angular momentum
+title: EM angular momentum
 description: 
 img: assets/img/emam1.jpg
 #redirect: https://unsplash.com
