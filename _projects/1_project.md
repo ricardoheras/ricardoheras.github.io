@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Aharonov-Bohm effect
+permalink: /research/ab
 description: with background image
 img: assets/img/ab1.png
 importance: 1
