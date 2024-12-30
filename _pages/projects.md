@@ -5,7 +5,7 @@ permalink: /research/
 description: 
 nav: true
 nav_order: 3
-display_categories: [Topological Physics] 
+display_categories: [Topological physics] 
 horizontal: false
 ---
 
