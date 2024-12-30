@@ -1,11 +1,13 @@
 ---
 layout: page
 title: magnetic monopoles
+permalink: /research/monopoles
 description: 
 img: assets/img/monopole1.jpg
 importance: 2
 category: topological physics
 giscus_comments: true
+related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.
