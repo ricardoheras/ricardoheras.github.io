@@ -2,7 +2,7 @@
 layout: page
 title: Aharonov-Bohm effect
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/ab1.png
 importance: 1
 category: Topological physics
 related_publications: true
