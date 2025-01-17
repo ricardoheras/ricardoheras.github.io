@@ -17,10 +17,7 @@ news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-Welcome to my website! I am a physics undergraduate student at The Open University in the UK. Here, you will find the PDFs of my publications, information about my research interests, teaching activities, my CV, and any other information I wish to share with the world!.............hhh
-
-hhh
-
+Welcome to my website! I’m a PhD student in theoretical physics at the University of Birmingham. Here, you can explore PDFs of my publications, learn about my research interests, find details of my teaching activities, view my CV, and any other information I wish to share with the world! 
 
 
 
