@@ -17,7 +17,11 @@ news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-Welcome to my website! I’m a PhD student in theoretical physics at the University of Birmingham. Here, you can explore PDFs of my publications, learn about my research interests, find details of my teaching activities, view my CV, and any other information I wish to share with the world! 
+Welcome to my website! I’m a first-year PhD student in theoretical physics at the University of Birmingham. Here, you can explore the PDFs of my publications, learn about my research interests, find details of my teaching activities, view my CV, and any other information I wish to share with the world! 
+
+My research interests broadly encompass topological phenomena in quantum mechanics and classical field theory. You can find further details in my selected publications below or in the research section of my website.
+
+I am also keen to understand the intricate complexities of waves, both classical and quantum-mechanical. Additionally, I am interested in understanding how electromagnetic fields from different sources interact—a concept I refer to as interaction electrodynamics.
 
 
 
