@@ -3,7 +3,7 @@ layout: page
 title: magnetic monopoles
 permalink: /research/monopoles
 description: 
-img: assets/img/monopole1.jpg
+img: assets/img/monopole3.jpg
 importance: 2
 category: topological physics
 giscus_comments: true
