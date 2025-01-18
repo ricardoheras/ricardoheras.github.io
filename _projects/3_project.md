@@ -1,6 +1,6 @@
 ---
 layout: page
-title: em angular momentum
+title: angular momentum
 description: 
 img: assets/img/emam1.jpg
 #redirect: https://unsplash.com
