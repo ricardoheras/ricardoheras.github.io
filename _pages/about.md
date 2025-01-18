@@ -21,7 +21,7 @@ Welcome to my website! I’m a first-year PhD student in theoretical physics at 
 
 My research interests broadly encompass topological phenomena in quantum mechanics and classical field theory. You can find further details in my selected publications below or in the research section of my website.
 
-I am also keen to understand the intricate complexities of waves, both classical and quantum-mechanical. Additionally, I am interested in understanding how electromagnetic fields from different sources interact—a concept I refer to as interaction electrodynamics.
+I am also keen to understand the intricate complexities of waves, both classical and quantum-mechanical. Additionally, I am interested in understanding how electromagnetic fields from different sources interact in various interesting forms—a concept I refer to as interaction electrodynamics.
 
 
 
