@@ -2,7 +2,7 @@
 layout: page
 title: angular momentum
 description: 
-img: assets/img/emam1.jpg
+img: assets/img/am1.jpg
 #redirect: https://unsplash.com
 importance: 3
 category: topological physics
