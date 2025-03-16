@@ -28,14 +28,14 @@
         - <b>Quantum aspects of waves.</b> Bohmian mechanics, WKB approximation, semi-classical waves 
         - <b>Boundary effects in quantum mechanics.</b> Chern-Simons theory
         
-
     - title: Classical electrodynamics
       items:
         - <b>Electrodynamics of interacting systems.</b> Conservations theorems of energy, momentum, and stress of independent electromagnetic systems
         - <b>Electromagnetic angular momentum.</b> Decomposition theorems of electromagnetic angular momentum, boundary effects of electromagnetic angular momentum
         - <b>Electromagnetic radiation.</b> Liénard-Wiechert fields, radiation pressure, radiation by accelerated charges
         - <b>Fundamental problems.</b> Radiation reaction, the Abraham-Minkowski controversy
-          - title: Optics
+    
+    - title: Optics
       items:
         - <b>Angular momentum of ligth.</b> Orbital angular momentum, spin angular momentum, boundary effects of the angular momentum of ligth
         - <b>Topological optics.</b> Optical skyrmions, field line helicity
