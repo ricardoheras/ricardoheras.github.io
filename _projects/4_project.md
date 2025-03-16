@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Electrodynamics
+title: classical electrodynamics
 description: 
 img: assets/img/em1.jpg
 importance: 1
