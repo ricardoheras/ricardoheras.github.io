@@ -8,7 +8,7 @@
     - name: Role 
       value: PhD student in theoretical physics
     - name: Email 
-      value: RXH579@bham.ac.uk 
+      value: rxh579@bham.ac.uk 
     - name: Website 
       value: <a href="https://ricardoheras.github.io/">ricardoheras.github.io</a>
     - name: Google Scholar
@@ -23,22 +23,22 @@
   contents:
     - title: Quantum Mechanics
       items:
-        - <b>Topological quantum effects.</b> Aharonov-Bohm effect, magnetic monopoles, geometric phases, anyons, magnetic skyrmions, magnetic hopfions, knotted fields in quantum theory
+        - <b>Topological quantum mechanics.</b> Aharonov-Bohm effect, magnetic monopoles, geometric phases, anyons, magnetic skyrmions, knotted fields in quantum theory
         - <b>Quantum interference.</b> Entangled states, quantum decoherence, quantum non-locality
         - <b>Quantum aspects of waves.</b> Bohmian mechanics, WKB approximation, semi-classical waves 
+        - <b>Boundary effects in quantum mechanics.</b> Chern-Simons theory
         
-    - title: Optics
-      items:
-        - <b>Angular momentum of ligth.</b> Orbital angular momentum, spin angular momentum, boundary effects of the angular momentum of ligth
-        - <b>Topological optics.</b> Optical skyrmions, field line helicity
 
     - title: Classical electrodynamics
       items:
         - <b>Electrodynamics of interacting systems.</b> Conservations theorems of energy, momentum, and stress of independent electromagnetic systems
         - <b>Electromagnetic angular momentum.</b> Decomposition theorems of electromagnetic angular momentum, boundary effects of electromagnetic angular momentum
-        - <b>Electromagnetic radiation.</b> Liénard-Wiechert fields, radiation reaction
-      
-      
+        - <b>Electromagnetic radiation.</b> Liénard-Wiechert fields, radiation pressure, radiation by accelerated charges
+        - <b>Fundamental problems.</b> Radiation reaction, the Abraham-Minkowski controversy
+          - title: Optics
+      items:
+        - <b>Angular momentum of ligth.</b> Orbital angular momentum, spin angular momentum, boundary effects of the angular momentum of ligth
+        - <b>Topological optics.</b> Optical skyrmions, field line helicity
 
 
 - title: Education
