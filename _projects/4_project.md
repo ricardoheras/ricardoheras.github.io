@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Classical Electrodynamics
+description: 
 img:
 importance: 3
-category: fun
+category: pedagogical articles
+related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.
