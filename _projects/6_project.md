@@ -1,11 +1,11 @@
 ---
 layout: page
-title: quantum mechanics
-description: 
+title: project xxx
+description: a project with no image
 img:
-importance: 3
+importance: 4
 category: pedagogical articles
-related_publications: true
+---
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
