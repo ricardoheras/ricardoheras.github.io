@@ -2,7 +2,7 @@
 layout: page
 title: special relativity
 description: 
-img:
+img: assets/img/rel1.jpg
 importance: 2
 category: pedagogical articles
 related_publications: true
