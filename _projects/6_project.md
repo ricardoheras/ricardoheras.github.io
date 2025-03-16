@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project xxx
+title: quantum mechanics
 description: a project with no image
 img:
 importance: 4
