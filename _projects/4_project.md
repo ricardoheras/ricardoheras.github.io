@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Classical Electrodynamics
+title: Electrodynamics
 description: 
 img:
-importance: 3
+importance: 1
 category: pedagogical articles
 related_publications: true
 ---
