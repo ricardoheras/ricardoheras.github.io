@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Quantum Mechanics
+title: quantum mechanics
 description: 
 img:
 importance: 3
