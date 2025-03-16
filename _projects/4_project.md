@@ -2,7 +2,7 @@
 layout: page
 title: Electrodynamics
 description: 
-img:
+img: assets/img/em1.jpg
 importance: 1
 category: pedagogical articles
 related_publications: true
