@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Relativity
+title: special relativity
 description: 
 img:
 importance: 2
