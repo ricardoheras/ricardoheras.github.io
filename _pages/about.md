@@ -21,7 +21,7 @@ Welcome to my website!
 
 I am a first-year PhD student in theoretical physics at the University of Birmingham. This site includes PDFs of my publications, information about my research interests, details of my teaching activities, my CV, and other materials I wish to share with the world.
 
-My research explores the fascinating links between quantum mechanics and classical electrodynamics, especially the topological phenomena that connect them.
+My research explores the fascinating links between quantum mechanics and classical electrodynamics, especially the topological phenomena that connect them, such as the Aharonov-Bohm effect, magnetic monopoles, or geometric phases.
 
 
 
