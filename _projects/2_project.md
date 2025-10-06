@@ -5,7 +5,7 @@ permalink: /research/monopoles
 description: 
 img: assets/img/monopole3.jpg
 importance: 2
-category: Topological physics
+category: topological physics
 giscus_comments: true
 related_publications: true
 ---
