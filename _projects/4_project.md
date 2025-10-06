@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Electrodynamics
+title: Electromagnetic theory
 description: 
 img: assets/img/em1.jpg
 importance: 1
