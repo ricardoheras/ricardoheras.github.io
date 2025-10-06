@@ -1,6 +1,6 @@
 ---
 layout: page
-title: special relativity
+title: Special relativity
 description: 
 img: assets/img/rel1.jpg
 importance: 2
