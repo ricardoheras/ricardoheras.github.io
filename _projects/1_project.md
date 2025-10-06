@@ -5,7 +5,7 @@ permalink: /research/ab
 description: 
 img: assets/img/ab1.jpg
 importance: 1
-category: topological physics
+category: Topological physics
 related_publications: true
 ---
 
