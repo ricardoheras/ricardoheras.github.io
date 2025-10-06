@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Electromagnetic theory
+title: Classical electromagnetic theory
 description: 
 img: assets/img/em1.jpg
 importance: 1
