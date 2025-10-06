@@ -5,7 +5,7 @@ description:
 img: assets/img/am1.jpg
 #redirect: https://unsplash.com
 importance: 3
-category: Topological physics
+category: topological physics
 giscus_comments: true
 related_publications: true
 
