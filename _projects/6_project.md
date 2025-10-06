@@ -1,6 +1,6 @@
 ---
 layout: page
-title: quantum mechanics
+title: Quantum mechanics
 description: 
 img: assets/img/qm1.jpg
 importance: 4
