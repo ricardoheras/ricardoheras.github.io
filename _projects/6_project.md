@@ -1,7 +1,7 @@
 ---
 layout: page
 title: quantum mechanics
-description: a project with no image
+description: 
 img: assets/img/qm1.jpg
 importance: 4
 category: pedagogical articles
