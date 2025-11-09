@@ -19,7 +19,7 @@ social: false # includes social icons at the bottom of the page
 ---
 Welcome to my website! 
 
-I am a first-year PhD student in theoretical physics at the University of Birmingham. This site includes PDFs of my publications, information about my research interests, details of my teaching activities, my CV, and other materials I wish to share with the world.
+I am a first-year PhD student in theoretical physics at the University of Birmingham. This site includes the PDFs of my publications, information about my research interests, details of my teaching activities, my CV, and other materials I wish to share with the world.
 
 <!-- Freeman Dyson letter. Remember!.-->
 
