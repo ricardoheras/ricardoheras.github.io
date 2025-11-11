@@ -9,7 +9,7 @@ profile:
   image: pic5.jpg
   image_circular: false # crops the image to make it circular 
   more_info: #>
-     <p>555 your office number</p>
+    # <p>555 your office number</p>
     # <p>123 your address street</p>
     # <p>Your City, State 12345</p>
 
@@ -24,7 +24,7 @@ I am a PhD student in theoretical physics at the University of Birmingham. This 
 <!-- Freeman Dyson letter. Remember!.-->
 
 
-My research explores the fascinating links between quantum mechanics and classical electrodynamics, especially the topological phenomena that connect them, such as the Aharonov-Bohm effect, the hypothetical magnetic monopoles, or geometric phases.
+My research explores the fascinating links between quantum mechanics and classical electrodynamics, especially the topological phenomena that connects them, such as the Aharonov-Bohm effect, the elusive magnetic monopoles, or geometric phases. 
 
 
 
