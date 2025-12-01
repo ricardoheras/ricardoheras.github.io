@@ -8,8 +8,7 @@ profile:
   align: right
   image: pic9.jpg
   image_circular: false # crops the image to make it circular 
-  image_width: 200px
-  image_height: auto
+ 
 
   more_info: #>
     # <p>555 your office number</p>
