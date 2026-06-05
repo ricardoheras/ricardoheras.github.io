@@ -25,7 +25,7 @@ I am a PhD student in theoretical physics at the University of Birmingham.
 <!-- Freeman Dyson letter. Remember!.-->
 
 
-My research explores the fascinating links between quantum mechanics and classical electrodynamics, especially the topological phenomena that connects them, such as the Aharonov-Bohm effect, the elusive magnetic monopoles, and geometric phases. 
+My research explores the fascinating links between quantum mechanics and classical electrodynamics, especially the topological and geometrical phenomena that connects them, such as the Aharonov-Bohm effect or geometric phases. 
 
 
 
