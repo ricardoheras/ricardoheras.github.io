@@ -8,7 +8,7 @@
     - name: Role 
       value: PhD student in theoretical physics
     - name: Supervisor
-      value: Prof. Mark R. Dennis   
+      value: Prof.   <a href="https://markrdennis.com/">Mark R. Dennis </a>
     - name: Email 
       value: rxh579@bham.ac.uk 
     - name: Website 
@@ -25,22 +25,20 @@
   contents:
     - title: Quantum Mechanics
       items:
-        - <b>Topological quantum mechanics.</b> Aharonov-Bohm effect, magnetic monopoles, geometric phases, anyons, magnetic skyrmions, knotted fields in quantum theory
-        - <b>Quantum interference.</b> Entangled states, quantum non-locality
-        - <b>Quantum aspects of waves.</b> Bohmian mechanics, WKB approximation, semi-classical waves 
-        - <b>Gravitation in quantum physics. Gravitational interference
-        - <b>Boundary effects in quantum mechanics.</b> Chern-Simons theory
+        - <b>Topological effects in quantum mechanics.</b> Aharonov-Bohm effect, magnetic monopoles, geometric phases, anyons, magnetic skyrmions, knotted fields in quantum theory
+        - <b>Quantum aspects of waves.</b> Quantum interference, path integrals, Bohmian mechanics, semi-classical waves 
+        
         
     - title: Classical Electrodynamics
       items:
-        - <b>Electrodynamics of interacting systems.</b> Conservations theorems of energy, momentum, and stress of independent electromagnetic systems
-        - <b>Electromagnetic angular momentum.</b> Decomposition theorems of electromagnetic angular momentum, boundary effects of electromagnetic angular momentum
-        - <b>Electromagnetic radiation.</b> Liénard-Wiechert fields, radiation pressure, radiation by accelerated charges, Radiation reaction
+        - <b>Electrodynamics of interacting systems.</b> Conservations theorems of energy and momentum of independent electromagnetic systems
+        - <b>Electromagnetic angular momentum.</b> Decomposition theorems of electromagnetic angular momentum
+        - <b>Electromagnetic radiation.</b> Radiation reaction
     
     - title: Optics
       items:
-        - <b>Angular momentum of light.</b> Orbital angular momentum, spin angular momentum, boundary effects of the angular momentum of light
-        - <b>Topological optics.</b> Optical skyrmions, field line helicity
+        - <b>Angular momentum of light.</b> Orbital-Spin decomposition, boundary effects of the angular momentum of light
+        
     
     
 
