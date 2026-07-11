@@ -25,7 +25,7 @@ I am a PhD student in theoretical physics at the University of Birmingham.
 <!-- Freeman Dyson letter. Remember!.-->
 
 
-My research explores the fascinating links between quantum mechanics and classical electrodynamics, particularly the topological and geometric phenomena that connect them, such as the Aharonov-Bohm effect, geometric phases, and related phenomena. Broadly speaking, I am a quantum geometer with a taste for theoretical architecture.
+My research explores the fascinating links between quantum mechanics and classical electrodynamics, particularly the topological and geometric phenomena that connect them, such as the Aharonov-Bohm effect, geometric phases, and related phenomena. 
 
 More generally, my physics stems from ideas that seem true, beautiful, and necessary to me.
 
