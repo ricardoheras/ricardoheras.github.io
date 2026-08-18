@@ -27,7 +27,7 @@ I am a PhD student in theoretical physics at the University of Birmingham.
 
 My research explores the fascinating links between quantum mechanics and classical electrodynamics, particularly the topological and geometric phenomena that connect them, such as the Aharonov-Bohm effect, geometric phases, magnetic monopoles, and related ideas. 
 
-More generally, my interest in physics stems from ideas that seem true, beautiful, and necessary to me. Physics is an adventure, and creation is its own reward.
+More generally, my interest in physics stems from ideas that seem true, beautiful, and necessary to me. Physics is my adventure, and creation is its reward.
 
 
 
