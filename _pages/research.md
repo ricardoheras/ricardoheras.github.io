@@ -8,14 +8,7 @@ nav_order: 3
 horizontal: false
 
 ---
----
-layout: page
-title: research
-permalink: /research/
-description:
-nav: true
-nav_order: 3
----
+
 
 <style>
 
