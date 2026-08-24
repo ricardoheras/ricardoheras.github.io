@@ -9,6 +9,14 @@ display_categories: [topological physics]
 horizontal: false
 
 
+<div class="research-section">
+  <h2>Topological Physics</h2>
+  <p>
+    My research explores topological structures in classical and quantum physics,
+    with particular emphasis on electromagnetic fields, geometric phases,
+    structured light, and related problems.
+  </p>
+</div>
 ---
 {% comment %}
 <!-- pages/projects.md -->
