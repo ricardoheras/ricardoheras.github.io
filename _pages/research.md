@@ -8,10 +8,9 @@ nav_order: 3
 display_categories: [topological physics] 
 horizontal: false
 ---
-hhhhhhhhhhhh
-
-<!<!-- pages/projects.md -->
-<!<div class="projects">
+{% comment %}
+<!-- pages/projects.md -->
+<div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {% for category in page.display_categories %}
@@ -63,4 +62,5 @@ hhhhhhhhhhhh
   </div>
   {% endif %}
 {% endif %}
-</div>-->
+</div>
+{% endcomment %}
