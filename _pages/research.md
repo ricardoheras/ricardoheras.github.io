@@ -8,12 +8,19 @@ nav_order: 3
 horizontal: false
 
 ---
-
+---
+layout: page
+title: research
+permalink: /research/
+description:
+nav: true
+nav_order: 3
+---
 
 <style>
 
 /* =========================
-   General research section
+   General section
    ========================= */
 
 .research-section {
@@ -22,16 +29,27 @@ horizontal: false
 
 
 /* =========================
-   Section title
+   Section heading
    ========================= */
 
+.research-heading {
+  margin-bottom: 1.8rem;
+}
+
 .research-title {
-  color: #666;
+  color: #555;
   font-weight: 500;
   letter-spacing: 0.02em;
-  margin-bottom: 1.2rem;
+  margin: 0 0 0.7rem 0;
   text-align: right;
-  padding-right: 0.5rem;
+}
+
+.research-divider {
+  width: 80%;
+  height: 2px;
+  background-color: #555;
+  margin-left: auto;
+  opacity: 0.9;
 }
 
 
@@ -48,11 +66,11 @@ horizontal: false
 
 
 /* =========================
-   Description
+   Main description
    ========================= */
 
 .research-description {
-  color: #666;
+  color: #000;
   line-height: 1.7;
   margin-bottom: 2rem;
 }
@@ -72,13 +90,13 @@ horizontal: false
 
 .paper-title {
   font-weight: 600;
-  margin-bottom: 0.2rem;
+  margin-bottom: 0.25rem;
 }
 
 .paper-description {
-  color: #666;
+  color: #000;
   line-height: 1.5;
-  margin-bottom: 0.25rem;
+  margin-bottom: 0.3rem;
 }
 
 .paper-links {
@@ -87,7 +105,7 @@ horizontal: false
 
 
 /* =========================
-   Section image
+   Images
    ========================= */
 
 .research-image {
@@ -121,10 +139,14 @@ horizontal: false
   .research-papers {
     margin-left: 0;
   }
+
+  .research-divider {
+    width: 100%;
+  }
+
 }
 
 </style>
-
 
 
 <!-- ================================================== -->
@@ -133,7 +155,10 @@ horizontal: false
 
 <section class="research-section">
 
-  <h2 class="research-title">Topological Physics</h2>
+  <div class="research-heading">
+    <h2 class="research-title">Topological Physics</h2>
+    <div class="research-divider"></div>
+  </div>
 
   <div class="research-content">
 
@@ -146,11 +171,9 @@ horizontal: false
         consequences of nontrivial field configurations.
       </p>
 
-
       <div class="research-papers">
 
         <div class="research-paper">
-
           <div class="paper-title">
             Title of Paper 1
           </div>
@@ -166,12 +189,10 @@ horizontal: false
             &nbsp;·&nbsp;
             <a href="LINK">DOI</a>
           </div>
-
         </div>
 
 
         <div class="research-paper">
-
           <div class="paper-title">
             Title of Paper 2
           </div>
@@ -183,12 +204,10 @@ horizontal: false
           <div class="paper-links">
             <a href="LINK">paper</a>
           </div>
-
         </div>
 
 
         <div class="research-paper">
-
           <div class="paper-title">
             Title of Paper 3
           </div>
@@ -200,7 +219,6 @@ horizontal: false
           <div class="paper-links">
             <a href="LINK">paper</a>
           </div>
-
         </div>
 
       </div>
@@ -210,7 +228,7 @@ horizontal: false
 
     <div class="research-image">
       <img
-        src="/assets/img/topological-physics.jpg"
+        src="{{ '/assets/img/research/topological-physics.jpg' | relative_url }}"
         alt="Topological Physics"
       >
     </div>
@@ -220,14 +238,16 @@ horizontal: false
 </section>
 
 
-
 <!-- ================================================== -->
 <!-- Classical Electrodynamics                          -->
 <!-- ================================================== -->
 
 <section class="research-section">
 
-  <h2 class="research-title">Classical Electrodynamics</h2>
+  <div class="research-heading">
+    <h2 class="research-title">Classical Electrodynamics</h2>
+    <div class="research-divider"></div>
+  </div>
 
   <div class="research-content">
 
@@ -241,11 +261,9 @@ horizontal: false
         phenomena.
       </p>
 
-
       <div class="research-papers">
 
         <div class="research-paper">
-
           <div class="paper-title">
             Interaction Poynting Theorem
           </div>
@@ -263,12 +281,10 @@ horizontal: false
             &nbsp;·&nbsp;
             <a href="LINK">DOI</a>
           </div>
-
         </div>
 
 
         <div class="research-paper">
-
           <div class="paper-title">
             Gauge Invariance in the Hydrogen Atom
           </div>
@@ -285,12 +301,10 @@ horizontal: false
             &nbsp;·&nbsp;
             <a href="LINK">arXiv</a>
           </div>
-
         </div>
 
 
         <div class="research-paper">
-
           <div class="paper-title">
             Title of Another Paper
           </div>
@@ -302,7 +316,6 @@ horizontal: false
           <div class="paper-links">
             <a href="LINK">paper</a>
           </div>
-
         </div>
 
       </div>
@@ -312,7 +325,7 @@ horizontal: false
 
     <div class="research-image">
       <img
-        src="/assets/img/classical-electrodynamics.jpg"
+        src="{{ '/assets/img/research/classical-electrodynamics.jpg' | relative_url }}"
         alt="Classical Electrodynamics"
       >
     </div>
