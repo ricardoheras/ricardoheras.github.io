@@ -45,7 +45,7 @@ nav_order: 3
 }
 
 .research-divider {
-  width: 80%;
+  width: 100%;
   height: 2px;
   background-color: #555;
   margin-left: auto;
