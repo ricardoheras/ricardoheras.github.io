@@ -10,6 +10,13 @@ horizontal: false
 
 
 ---
+<div style="margin-top: 2rem; margin-bottom: 2rem;">
+  <h2 style="font-weight: 500; letter-spacing: 0.03em;">
+    Topological Physics
+  </h2>
+  <hr style="margin-top: 0.5rem;">
+</div>
+
 {% comment %}
 <!-- pages/projects.md -->
 <div class="projects">
