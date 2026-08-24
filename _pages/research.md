@@ -8,9 +8,63 @@ nav_order: 3
 horizontal: false
 
 ---
-<!-- ===================== -->
-<!-- Topological Physics   -->
-<!-- ===================== -->
+---
+layout: page
+title: research
+permalink: /research/
+description:
+nav: true
+nav_order: 3
+---
+
+<style>
+.research-section {
+  margin-bottom: 3.5rem;
+}
+
+.research-title {
+  color: #666;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  margin-bottom: 1rem;
+  text-align: right;
+  padding-right: 0.5rem;
+}
+
+.research-description {
+  max-width: 850px;
+  margin-bottom: 1.8rem;
+  line-height: 1.7;
+}
+
+.research-papers {
+  margin-left: 1rem;
+}
+
+.research-paper {
+  margin-bottom: 1.8rem;
+}
+
+.paper-title {
+  font-weight: 600;
+  margin-bottom: 0.2rem;
+}
+
+.paper-description {
+  color: #777;
+  line-height: 1.5;
+  margin-bottom: 0.2rem;
+}
+
+.paper-links {
+  font-size: 0.95rem;
+}
+</style>
+
+
+<!-- ==================== -->
+<!-- Topological Physics  -->
+<!-- ==================== -->
 
 <section class="research-section">
 
@@ -25,33 +79,51 @@ horizontal: false
 
   <div class="research-papers">
 
-    <p>
-      <strong>Paper 1</strong><br>
-      <span class="paper-description">
-        A short one-sentence description of the main idea or result.
-      </span><br>
-      <a href="LINK">paper</a>
-      &nbsp;·&nbsp;
-      <a href="LINK">arXiv</a>
-      &nbsp;·&nbsp;
-      <a href="LINK">DOI</a>
-    </p>
+    <div class="research-paper">
+      <div class="paper-title">
+        Title of Paper 1
+      </div>
 
-    <p>
-      <strong>Paper 2</strong><br>
-      <span class="paper-description">
-        A short description of this work.
-      </span><br>
-      <a href="LINK">paper</a>
-    </p>
+      <div class="paper-description">
+        A short description of the main idea or result of this work.
+      </div>
 
-    <p>
-      <strong>Paper 3</strong><br>
-      <span class="paper-description">
+      <div class="paper-links">
+        <a href="LINK">paper</a>
+        &nbsp;·&nbsp;
+        <a href="LINK">arXiv</a>
+        &nbsp;·&nbsp;
+        <a href="LINK">DOI</a>
+      </div>
+    </div>
+
+    <div class="research-paper">
+      <div class="paper-title">
+        Title of Paper 2
+      </div>
+
+      <div class="paper-description">
         A short description of this work.
-      </span><br>
-      <a href="LINK">paper</a>
-    </p>
+      </div>
+
+      <div class="paper-links">
+        <a href="LINK">paper</a>
+      </div>
+    </div>
+
+    <div class="research-paper">
+      <div class="paper-title">
+        Title of Paper 3
+      </div>
+
+      <div class="paper-description">
+        A short description of this work.
+      </div>
+
+      <div class="paper-links">
+        <a href="LINK">paper</a>
+      </div>
+    </div>
 
   </div>
 
@@ -75,35 +147,57 @@ horizontal: false
 
   <div class="research-papers">
 
-    <p>
-      <strong>Interaction Poynting Theorem</strong><br>
-      <span class="paper-description">
+    <div class="research-paper">
+      <div class="paper-title">
+        Interaction Poynting Theorem
+      </div>
+
+      <div class="paper-description">
         A formulation of electromagnetic energy conservation that isolates
         the mutual energy and energy flow associated with two interacting
         Maxwell systems.
-      </span><br>
-      <a href="LINK">paper</a>
-      &nbsp;·&nbsp;
-      <a href="LINK">arXiv</a>
-    </p>
+      </div>
 
-    <p>
-      <strong>Gauge Invariance in the Hydrogen Atom</strong><br>
-      <span class="paper-description">
+      <div class="paper-links">
+        <a href="LINK">paper</a>
+        &nbsp;·&nbsp;
+        <a href="LINK">arXiv</a>
+        &nbsp;·&nbsp;
+        <a href="LINK">DOI</a>
+      </div>
+    </div>
+
+    <div class="research-paper">
+      <div class="paper-title">
+        Gauge Invariance in the Hydrogen Atom
+      </div>
+
+      <div class="paper-description">
         An examination of the hydrogen atom in gauge-equivalent descriptions,
-        illustrating explicitly how gauge freedom reshapes the Hamiltonian and
-        wavefunction while leaving physical predictions unchanged.
-      </span><br>
-      <a href="LINK">paper</a>
-    </p>
+        illustrating how gauge freedom reshapes the Hamiltonian and wavefunction
+        while leaving physical predictions unchanged.
+      </div>
 
-    <p>
-      <strong>Another paper</strong><br>
-      <span class="paper-description">
-        A short description of the work.
-      </span><br>
-      <a href="LINK">paper</a>
-    </p>
+      <div class="paper-links">
+        <a href="LINK">paper</a>
+        &nbsp;·&nbsp;
+        <a href="LINK">arXiv</a>
+      </div>
+    </div>
+
+    <div class="research-paper">
+      <div class="paper-title">
+        Title of Another Paper
+      </div>
+
+      <div class="paper-description">
+        A short description of this work.
+      </div>
+
+      <div class="paper-links">
+        <a href="LINK">paper</a>
+      </div>
+    </div>
 
   </div>
 
