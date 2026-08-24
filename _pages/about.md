@@ -19,9 +19,10 @@ news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-Welcome to my website! I am a PhD student in theoretical physics at the University of Birmingham. 
-<!-- Freeman Dyson letter. Remember!.-->
+Welcome to my website! 
 
+I am a PhD student in theoretical physics at the University of Birmingham. 
+<!-- Freeman Dyson letter. Remember!.-->
 
 My research explores the fascinating links between quantum mechanics and classical electrodynamics, particularly the topological and geometric phenomena that connect them, such as the Aharonov-Bohm effect, geometric phases, magnetic monopoles, and related ideas. 
 
