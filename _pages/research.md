@@ -7,6 +7,8 @@ nav: true
 nav_order: 3
 display_categories: [topological physics] 
 horizontal: false
+
+
 ---
 {% comment %}
 <!-- pages/projects.md -->
