@@ -1,11 +1,11 @@
 ---
+
 layout: page
-permalink: /teaching/
 title: teaching
-description: #Materials for courses you taught. Replace this text with your description.
+permalink: /research/
+description:
 nav: true
-display_categories: [pedagogical articles]
-nav_order: 4
+nav_order: 3
 horizontal: false
 ---
 
@@ -148,7 +148,7 @@ horizontal: false
 <section class="research-section">
 
   <div class="research-heading">
-    <h2 class="research-title">Topological Physics</h2>
+    <h2 class="research-title"></h2>
     <div class="research-divider"></div>
   </div>
 
