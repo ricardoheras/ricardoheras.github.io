@@ -1,11 +1,10 @@
 ---
-
 layout: page
 title: teaching
 permalink: /research/
 description:
 nav: true
-nav_order: 3
+nav_order: 4
 horizontal: false
 ---
 
@@ -148,7 +147,7 @@ horizontal: false
 <section class="research-section">
 
   <div class="research-heading">
-    <h2 class="research-title"></h2>
+    <h2 class="research-title">Pedagogical Articles</h2>
     <div class="research-divider"></div>
   </div>
 
