@@ -64,7 +64,6 @@ horizontal: false
 
 .research-description {
   color: #000;
-  line-height: 1.7;
   margin-bottom: 2rem;
 }
 
@@ -87,7 +86,6 @@ horizontal: false
 }
 
 .paper-description {
-  color: #000;
   line-height: 1.5;
   margin-bottom: 0.3rem;
 }
@@ -166,7 +164,7 @@ horizontal: false
 
         <div class="research-paper">
           <div class="paper-title">
-            Title of Paper 1
+            The Aharonov-Bohm effect in a closed flux line
           </div>
 
           <div class="paper-description">
