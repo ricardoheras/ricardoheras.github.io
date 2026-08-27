@@ -167,15 +167,13 @@ horizontal: false
           </div>
 
           <div class="paper-description">
-            A short description of the main idea or result of this work.
+            Ricardo Heras
           </div>
 
           <div class="paper-links">
-            <a href="LINK">paper</a>
+            <a href="https://ricardoheras.github.io/assets/pdf/rh24.pdf">PDF</a>
             &nbsp;·&nbsp;
-            <a href="LINK">arXiv</a>
-            &nbsp;·&nbsp;
-            <a href="LINK">DOI</a>
+            <a href="https://doi.org/10.1140/epjp/s13360-022-02832-2">doi</a>
           </div>
         </div>
 
