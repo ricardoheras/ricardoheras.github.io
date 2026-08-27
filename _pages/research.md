@@ -167,7 +167,7 @@ horizontal: false
           </div>
 
           <div class="paper-description">
-            Ricardo Heras
+            Ricardo Heras, The European Physical Journal Plus, 137, 157, 2022
           </div>
 
           <div class="paper-links">
@@ -184,7 +184,7 @@ horizontal: false
           </div>
 
           <div class="paper-description">
-            Ricardo Heras
+            Ricardo Heras, Contemporary Physics, 59, 331, 2018
           </div>
 
           <div class="paper-links">
@@ -197,17 +197,39 @@ horizontal: false
 
         <div class="research-paper">
           <div class="paper-title">
-            Title of Paper 3
+         Can classical electrodynamics predict nonlocal effects?
           </div>
 
           <div class="paper-description">
-            A short description of this work.
+            José Alfredo Heras, and Ricardo Heras, The European Physical Journal Plus, 136, 847, 2021
           </div>
 
           <div class="paper-links">
-            <a href="LINK">paper</a>
+            <a href="https://ricardoheras.github.io/assets/pdf/rh22.pdf">PDF</a>
+            &nbsp;·&nbsp;
+            <a href="https://doi.org/10.1140/epjp/s13360-021-01835-9">DOI</a>
           </div>
         </div>
+
+
+      <div class="research-papers">
+
+        <div class="research-paper">
+          <div class="paper-title">
+            The Aharonov-Bohm effect in a closed flux line
+          </div>
+
+          <div class="paper-description">
+            Ricardo Heras, 
+          </div>
+
+          <div class="paper-links">
+            <a href="https://ricardoheras.github.io/assets/pdf/rh24.pdf">PDF</a>
+            &nbsp;·&nbsp;
+            <a href="https://doi.org/10.1140/epjp/s13360-022-02832-2">DOI</a>
+          </div>
+        </div>
+        
 
       </div>
 
