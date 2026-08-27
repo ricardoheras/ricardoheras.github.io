@@ -1,7 +1,7 @@
 ---
 layout: page
 title: teaching
-permalink: /research/
+permalink: /teaching/
 description:
 nav: true
 nav_order: 4
