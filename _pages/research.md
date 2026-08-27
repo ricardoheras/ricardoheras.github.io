@@ -158,10 +158,8 @@ horizontal: false
     <div class="research-text">
 
       <p class="research-description">
-        My research in topological physics explores geometric and topological
-        structures in classical and quantum systems, with particular emphasis
-        on electromagnetic fields, geometric phases, and the physical
-        consequences of nontrivial field configurations.
+        I am interested in the ways topology and geometry conspire in electromagnetism and quantum mechanics.
+        I am particularly interested in the Aharonov–Bohm effect, topological electromagnetic angular momentum, magnetic monopoles and dyons, where concepts such as winding and linking numbers, gauge invariance, nonlocality, quantisation and electromagnetic duality become directly intertwined with physical observables. More broadly, I am interested in those situations where topology is not merely a mathematical description of physics, but becomes part of the physics itself.
       </p>
 
       <div class="research-papers">
@@ -230,6 +228,7 @@ horizontal: false
 
 </section>
 
+{% comment %}
 
 <!-- ================================================== -->
 <!-- Classical Electrodynamics                          -->
@@ -327,7 +326,6 @@ horizontal: false
 
 </section>
 
-{% comment %}
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
