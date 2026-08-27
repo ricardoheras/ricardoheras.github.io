@@ -63,7 +63,6 @@ horizontal: false
    ========================= */
 
 .research-description {
-  color: #000;
   margin-bottom: 2rem;
 }
 
