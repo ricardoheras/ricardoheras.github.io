@@ -173,22 +173,24 @@ horizontal: false
           <div class="paper-links">
             <a href="https://ricardoheras.github.io/assets/pdf/rh24.pdf">PDF</a>
             &nbsp;·&nbsp;
-            <a href="https://doi.org/10.1140/epjp/s13360-022-02832-2">doi</a>
+            <a href="https://doi.org/10.1140/epjp/s13360-022-02832-2">DOI</a>
           </div>
         </div>
 
 
         <div class="research-paper">
           <div class="paper-title">
-            Title of Paper 2
+            Dirac quantisation condition: a comprehensive review
           </div>
 
           <div class="paper-description">
-            A short description of this work.
+            Ricardo Heras
           </div>
 
           <div class="paper-links">
-            <a href="LINK">paper</a>
+            <a href="https://ricardoheras.github.io/assets/pdf/rh16.pdf">PDF</a>
+            &nbsp;·&nbsp;
+            <a href="https://doi.org/10.1080/00107514.2018.1527974">DOI</a>
           </div>
         </div>
 
