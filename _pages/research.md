@@ -167,7 +167,7 @@ horizontal: false
           </div>
 
           <div class="paper-description">
-            Ricardo Heras, The European Physical Journal Plus, 137, 157, 2022
+            Ricardo Heras, The European Physical Journal Plus, <b>137</b>, 157, 2022
           </div>
 
           <div class="paper-links">
