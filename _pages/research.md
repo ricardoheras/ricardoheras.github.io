@@ -184,7 +184,7 @@ horizontal: false
           </div>
 
           <div class="paper-description">
-            Ricardo Heras, Contemporary Physics, 59, 331, 2018
+            Ricardo Heras, Contemporary Physics, <b>59</b>, 331, 2018
           </div>
 
           <div class="paper-links">
@@ -201,7 +201,7 @@ horizontal: false
           </div>
 
           <div class="paper-description">
-            José Alfredo Heras, and Ricardo Heras, The European Physical Journal Plus, 136, 847, 2021
+            José Alfredo Heras, and Ricardo Heras, The European Physical Journal Plus, <b>136</b>, 847, 2021
           </div>
 
           <div class="paper-links">
@@ -216,7 +216,7 @@ horizontal: false
 
         <div class="research-paper">
           <div class="paper-title">
-            The Aharonov-Bohm effect in a closed flux line
+          The Aharonov-Bohm effect in a closed flux line
           </div>
 
           <div class="paper-description">
