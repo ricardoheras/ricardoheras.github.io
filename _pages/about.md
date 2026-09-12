@@ -6,7 +6,7 @@ subtitle:  # <a href='#'>University of Birmingham</a>. Address. Contacts. Motto.
 
 profile:
   align: right
-  image: heraspic.jpeg
+  image: heras1.jpeg
   image_circular: true # crops the image to make it circular 
  
 
