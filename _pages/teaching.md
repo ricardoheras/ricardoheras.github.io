@@ -158,7 +158,7 @@ horizontal: false
   <div class="research-heading">
 
     <h2 class="research-title">
-      Topological Physics
+      Classical Electrodynamcs
     </h2>
 
     <div class="research-divider"></div>
@@ -185,7 +185,7 @@ horizontal: false
 
 
         <!-- ==========================================
-             Aharonov–Bohm effect
+             
              ========================================== -->
 
         <div class="research-paper">
