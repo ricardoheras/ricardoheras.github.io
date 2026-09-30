@@ -21,7 +21,7 @@ social: false # includes social icons at the bottom of the page
 ---
 Welcome to my website! I am a PhD student in theoretical physics at the University of Birmingham. 
 
-My research explores the connections between quantum mechanics and classical field theories, with a particular interest in the topological and geometric structures that emerge between them. These include the Aharonov–Bohm effect, geometric phases, magnetic monopoles, and related phenomena in which topology and geometry become directly intertwined. More broadly, I am drawn to ideas in physics that strike me as true, beautiful, and inherently necessary.
+My research explores the fascinating connections between quantum mechanics and classical field theories, with a particular interest in the topological and geometric structures that emerge between them. These include the Aharonov–Bohm effect, geometric phases, magnetic monopoles, and related phenomena in which topology and geometry become directly intertwined. More broadly, I am drawn to ideas in physics that strike me as true, beautiful, and inherently necessary.
 
 
 
