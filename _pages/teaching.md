@@ -158,7 +158,7 @@ horizontal: false
   <div class="research-heading">
 
     <h2 class="research-title">
-      Classical Electrodynamcs
+      Classical Electrodynamics
     </h2>
 
     <div class="research-divider"></div>
