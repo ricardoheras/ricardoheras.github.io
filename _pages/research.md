@@ -175,66 +175,11 @@ horizontal: false
       <!-- Introduction -->
 
       <p class="research-description">
-        I am interested in situations where topology is not merely a
-        mathematical language for describing physics, but becomes part
-        of the physics itself. My work explores how global geometric
-        and topological structures acquire observable consequences in
-        classical electrodynamics and quantum mechanics. In particular,
-        I study the Aharonov–Bohm effect, topological electromagnetic
-        angular momentum, magnetic monopoles and dyons, where winding
-        and linking numbers, gauge invariance, nonlocality, quantisation,
-        electromagnetic duality and vacuum structure become directly
-        intertwined with physical phases and observables.
+        
       </p>
 
 
       <!-- Papers -->
-
-      <div class="research-papers">
-
-
-        <!-- ==========================================
-             Classical nonlocality
-             ========================================== -->
-
-        <div class="research-paper">
-
-          <div class="paper-title">
-            Can classical electrodynamics predict nonlocal effects?
-          </div>
-
-          <div class="paper-summary">
-            A classical counterpart to the topological nonlocality
-            associated with the Aharonov–Bohm effect. For a charge
-            encircling a confined magnetic flux, the electromagnetic
-            angular momentum describes a nonlocal interaction between
-            spatially separated electromagnetic systems. Its dependence
-            on the winding number reveals that this nonlocality is
-            topological and arises from the non-simply connected
-            geometry of the configuration.
-          </div>
-
-          <div class="paper-citation">
-            José A. Heras and Ricardo Heras,
-            <em>The European Physical Journal Plus</em>,
-            <b>136</b>, 847 (2021)
-          </div>
-
-          <div class="paper-links">
-
-            <a href="https://ricardoheras.github.io/assets/pdf/rh22.pdf">
-              PDF
-            </a>
-
-            &nbsp;·&nbsp;
-
-            <a href="https://doi.org/10.1140/epjp/s13360-021-01835-9">
-              DOI
-            </a>
-
-          </div>
-
-        </div>
 
 
 
@@ -414,6 +359,56 @@ horizontal: false
 
 
       </div>
+
+
+
+      <div class="research-papers">
+
+
+        <!-- ==========================================
+             Classical nonlocality
+             ========================================== -->
+
+        <div class="research-paper">
+
+          <div class="paper-title">
+            Can classical electrodynamics predict nonlocal effects?
+          </div>
+
+          <div class="paper-summary">
+            A classical counterpart to the topological nonlocality
+            associated with the Aharonov–Bohm effect. For a charge
+            encircling a confined magnetic flux, the electromagnetic
+            angular momentum describes a nonlocal interaction between
+            spatially separated electromagnetic systems. Its dependence
+            on the winding number reveals that this nonlocality is
+            topological and arises from the non-simply connected
+            geometry of the configuration.
+          </div>
+
+          <div class="paper-citation">
+            José A. Heras and Ricardo Heras,
+            <em>The European Physical Journal Plus</em>,
+            <b>136</b>, 847 (2021)
+          </div>
+
+          <div class="paper-links">
+
+            <a href="https://ricardoheras.github.io/assets/pdf/rh22.pdf">
+              PDF
+            </a>
+
+            &nbsp;·&nbsp;
+
+            <a href="https://doi.org/10.1140/epjp/s13360-021-01835-9">
+              DOI
+            </a>
+
+          </div>
+
+        </div>
+
+
       <!-- End research-papers -->
 
 
