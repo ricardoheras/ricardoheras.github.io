@@ -147,7 +147,7 @@ horizontal: false
 <section class="research-section">
 
   <div class="research-heading">
-    <h2 class="research-title">Pedagogical Articles</h2>
+    <h2 class="research-title">Classical Electrodynamics</h2>
     <div class="research-divider"></div>
   </div>
 
