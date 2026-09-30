@@ -360,7 +360,7 @@ horizontal: false
 
       </div>
 
-
+{% comment %}
 
       <div class="research-papers">
 
@@ -437,7 +437,7 @@ horizontal: false
 
 </section>
 
-{% comment %}
+
 
 <style>
 
