@@ -19,14 +19,11 @@ news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-Welcome to my website! 
+Welcome to my website! I am a PhD student in theoretical physics at the University of Birmingham. 
 
-I am a PhD student in theoretical physics at the University of Birmingham. 
-<!-- Freeman Dyson letter. Remember!.-->
+My research explores the connections between quantum mechanics and classical field theories, with a particular interest in the topological and geometric structures that emerge between them. These include the Aharonov–Bohm effect, geometric phases, magnetic monopoles, and related phenomena in which topology and geometry become directly intertwined. More broadly, I am drawn to ideas in physics that strike me as true, beautiful, and inherently necessary.
 
-My research explores the connections between quantum mechanics and classical field theories, with a particular interest in the topological and geometric structures that emerge between them. These include the Aharonov–Bohm effect, geometric phases, magnetic monopoles, and related phenomena in which topology and geometry become directly intertwined.
 
-More broadly, I am drawn to ideas in physics that strike me as true, beautiful, and inherently necessary.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
