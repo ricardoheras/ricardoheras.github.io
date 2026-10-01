@@ -1,6 +1,6 @@
 ---
 layout: page
-title: teaching. A collection of pedagogical articles and essays
+title: teaching
 permalink: /teaching/
 description:
 nav: true
