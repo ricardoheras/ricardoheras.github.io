@@ -1,7 +1,7 @@
 - title: Why do I do all of this?
   type: list
   contents:
-    - Because some ideas in physics are simply too beautiful to ignore
+    - Because some ideas in physics are simply too beautiful in ignore
 
 - title: Some useful information
   type: map
@@ -50,7 +50,7 @@
       institution: University of Birmingham, Birmingham, UK
       year: 01/2025-present
       description:
-        - Resarch area. Topological physics
+        - Research area. Topological physics
         #- Description 2.
         #- title: Description 3
         #  contents:
