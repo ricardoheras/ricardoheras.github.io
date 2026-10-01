@@ -11,11 +11,9 @@ profile:
  
 
   more_info: #>
-      <p>A correspondence with Freeman Dyson that I treasure</p>
    <p>
-    <a href="/assets/pdf/dyson.pdf" target="_blank">
-      PDF →
-    </a>
+    A correspondence with Freeman Dyson that I treasure
+    <a href="/assets/pdf/dyson.pdf" target="_blank" rel="noopener noreferrer">PDF →</a>
    </p>
 
 news: false # includes a list of news items
