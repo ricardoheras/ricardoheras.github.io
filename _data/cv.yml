@@ -1,15 +1,15 @@
-- title: Why do I do physics?
+- title: Why do I do all of this?
   type: list
   contents:
-    - Because some ideas in physics are simply too beautiful to ignore.
+    - Because some ideas in physics are simply too beautiful to ignore
 
 - title: Some useful information
   type: map
   contents:
     - name: Current institution  
-      value: University of Birmingham. PhD student of theoretical physics
+      value: University of Birmingham. I am currently a PhD student of theoretical physics
     - name: Supervisor
-      value: Prof. <a href="https://markrdennis.com/">Mark R. Dennis </a>
+      value: Professor <a href="https://markrdennis.com/">Mark R. Dennis </a>
     - name: Email 
       value: rxh579@student.bham.ac.uk 
     - name: Website 
