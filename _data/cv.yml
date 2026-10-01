@@ -7,7 +7,7 @@
   type: map
   contents:
     - name: Current institution  
-      value: University of Birmingham. I am currently a PhD student of theoretical physics
+      value: University of Birmingham. PhD student of theoretical physics
     - name: Supervisor
       value: Professor <a href="https://markrdennis.com/">Mark R. Dennis </a>
     - name: Email 
@@ -26,21 +26,19 @@
   contents:
     - title: Quantum Mechanics
       items:
-        - <b>Topological effects in quantum mechanics.</b> Aharonov-Bohm effect, magnetic monopoles, geometric phases, anyons, magnetic skyrmions, knotted fields in quantum theory
+        - <b>Topological effects in quantum mechanics.</b> Aharonov-Bohm effect, magnetic monopoles, geometric phases, anyons, magnetic skyrmions, and knotted fields in quantum theory
         - <b>Quantum aspects of waves.</b> Quantum interference
-        
-        
+
     - title: Classical Electrodynamics
       items:
-        - <b>Electrodynamics of interacting systems.</b> Conservations theorems of energy and momentum of independent electromagnetic systems
-        - <b>Electromagnetic angular momentum.</b> Decomposition theorems of electromagnetic angular momentum
-        - <b>Electromagnetic radiation.</b> radiation by orbiting charges.</b> Radiation reaction
-    
+        - <b>Electrodynamics of interacting systems.</b> Conservation laws for energy and momentum in independent electromagnetic systems
+        - <b>Electromagnetic angular momentum.</b> Decomposition theorems for electromagnetic angular momentum
+        - <b>Electromagnetic radiation.</b> Radiation from orbiting charges and radiation reaction
+
     - title: Optics
       items:
-        - <b>Angular momentum of light.</b> Orbital-Spin decomposition, boundary effects of the angular momentum of light
-        
-    
+        - <b>Angular momentum of light.</b> Orbital-spin decomposition and boundary effects in the angular momentum of light
+
     
 
       
