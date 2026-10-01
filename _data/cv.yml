@@ -1,8 +1,10 @@
-- title: Academic information
+- title: Some useful information
   type: map
   contents:
     - name: Name
       value: Ricardo Heras
+    - name: WHy do I do physics?
+      value: Because some ideas in physics are simply too beautiful to ignore
     - name: Institution  
       value: University of Birmingham
     - name: Role 
@@ -10,15 +12,15 @@
     - name: Supervisor
       value: Prof.   <a href="https://markrdennis.com/">Mark R. Dennis </a>
     - name: Email 
-      value: rxh579@bham.ac.uk 
+      value: rxh579@student.bham.ac.uk 
     - name: Website 
       value: <a href="https://ricardoheras.github.io/">ricardoheras.github.io</a>
     - name: Google Scholar
-      value: <a href="https://scholar.google.com/citations?user=FkIaFC0AAAAJ&hl=en">FkIaFC0AAAAJ</a> 
+      value: <a href="https://scholar.google.com/citations?user=FkIaFC0AAAAJ&hl=en">link</a> 
     - name: ORCID
       value: <a href="https://orcid.org/0000-0003-1234-2481">0000-0003-1234-2481</a>
     - name: ResearchGate
-      value: <a href="https://www.researchgate.net/profile/Ricardo-Heras">Ricardo-Heras</a>
+      value: <a href="https://www.researchgate.net/profile/Ricardo-Heras">lin</a>
   
 - title: Research interests
   type: nested_list
@@ -26,14 +28,14 @@
     - title: Quantum Mechanics
       items:
         - <b>Topological effects in quantum mechanics.</b> Aharonov-Bohm effect, magnetic monopoles, geometric phases, anyons, magnetic skyrmions, knotted fields in quantum theory
-        - <b>Quantum aspects of waves.</b> Quantum interference, path integrals, Bohmian mechanics, semi-classical waves 
+        - <b>Quantum aspects of waves.</b> Quantum interference
         
         
     - title: Classical Electrodynamics
       items:
         - <b>Electrodynamics of interacting systems.</b> Conservations theorems of energy and momentum of independent electromagnetic systems
         - <b>Electromagnetic angular momentum.</b> Decomposition theorems of electromagnetic angular momentum
-        - <b>Electromagnetic radiation.</b> Radiation reaction
+        - <b>Electromagnetic radiation.</b> radiation by orbiting charges.</b> Radiation reaction
     
     - title: Optics
       items:
@@ -61,7 +63,6 @@
       institution: The Open University, Milton Keynes, UK 
       year: 09/2021-10/2024
       description:
-        - Degree clasification. 2.1
         - title: Science project course SXP390. Radiation and matter
           contents: 
           - <i>New Approach to the Aharonov-Bohm effect</i>
