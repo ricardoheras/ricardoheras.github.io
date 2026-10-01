@@ -14,7 +14,7 @@ profile:
       <p>A correspondence with Freeman Dyson that I treasure</p>
    <p>
     <a href="/assets/pdf/dyson.pdf" target="_blank">
-      Read the correspondence →
+      PDF →
     </a>
    </p>
 
