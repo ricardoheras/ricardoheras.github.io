@@ -70,7 +70,12 @@
        - <b>Canadian Journal of Physics</b>
        - <b>Zeitschrift für Naturforschung A</b>
 
-
+- title: Book reviewer
+  type: nested_list
+  contents:
+    - title:
+      items:
+       - <b>Elsevier</b> — co-reviewer, with my PhD supervisor, of a book manuscript on topology in physics
       
 
 
