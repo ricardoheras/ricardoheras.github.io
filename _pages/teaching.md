@@ -2,7 +2,7 @@
 layout: page
 title: teaching
 permalink: /teaching/
-description: A collection of pedadogical articles, essays, notes, and philosophical reflections
+description: '<span style="font-size: 1.3rem;">A collection of pedagogical articles, essays, notes, and philosophical reflections</span>'
 nav: true
 nav_order: 4
 horizontal: false
