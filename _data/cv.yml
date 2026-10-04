@@ -6,8 +6,7 @@
 - title: Some useful information
   type: map
   contents:
-    - name: Current institution  
-      value: University of Birmingham. PhD student in theoretical physics
+    - PhD student in theoretical physics at the University of Birmingham
     - name: Supervisor
       value: Professor <a href="https://markrdennis.com/">Mark R. Dennis </a>
     - name: Email 
@@ -41,29 +40,6 @@
 
     
 
-      
-
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: University of Birmingham, Birmingham, UK
-      year: 01/2025-present
-      description:
-        - Research area. Topological physics
-        #- Description 2.
-        #- title: Description 3
-        #  contents:
-        #    - Sub-description 1.
-        #    - Sub-description 2.
-    - title: BSc (Honours) Physics
-      institution: The Open University, Milton Keynes, UK 
-      year: 09/2021-10/2024
-      description:
-        - title: Science project course SXP390. Radiation and matter
-          contents: 
-          - <i>New Approach to the Aharonov-Bohm effect</i>
-
 
 - title: Selected publications 
   type: time_table
@@ -93,6 +69,35 @@
        - <b>International Journal of Theoretical Physics</b>
        - <b>Canadian Journal of Physics</b>
        - <b>Zeitschrift für Naturforschung A</b>
+
+
+      
+
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD
+      institution: University of Birmingham, Birmingham, UK
+      year: 2025-present
+      description:
+        - Research area. Topological physics
+        #- Description 2.
+        #- title: Description 3
+        #  contents:
+        #    - Sub-description 1.
+        #    - Sub-description 2.
+    - title: BSc Physics
+      institution: The Open University, Milton Keynes, UK 
+      year: 2024
+      description:
+        - title: Science project course SXP390. Radiation and matter (somwhat similar to a thesis)
+          contents: 
+          - <i>New Approach to the Aharonov-Bohm effect</i>
+    - title: DipHE Astrophysics
+      institution: University College London, London, UK 
+      year: 2022
+      
 
 
    
