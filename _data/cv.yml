@@ -24,7 +24,7 @@
 - title: Research interests
   type: nested_list
   contents:
-    - title: Quantum Mechanics
+    - title: Quantum Theory
       items:
         - <b>Topological aspects of quantum theory.</b> Aharonov-Bohm effect, magnetic monopoles, geometric phases, Wilson lines
         - <b>Quantum aspects of waves.</b> Quantum interference
@@ -35,10 +35,7 @@
         - <b>Electromagnetic angular momentum.</b> Decomposition theorems for electromagnetic angular momentum
         - <b>Electromagnetic radiation.</b> Radiation from orbiting charges and radiation reaction
 
-    - title: Optics
-      items:
-        - <b>Angular momentum of electromagnetic fields in the vacuum.</b> Orbital-spin decomposition and boundary effects in the angular momentum of electromagnetic fields in the vacuum
-
+    
     
 
 
