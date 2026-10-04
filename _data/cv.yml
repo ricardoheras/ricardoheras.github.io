@@ -20,13 +20,13 @@
     - name: ResearchGate
       value: <a href="https://www.researchgate.net/profile/Ricardo-Heras">link</a>
 
-      
+
 - title: Research interests
   type: nested_list
   contents:
     - title: Quantum Mechanics
       items:
-        - <b>Topological effects in quantum mechanics.</b> Aharonov-Bohm effect, magnetic monopoles, geometric phases, anyons, magnetic skyrmions, and knotted fields in quantum theory
+        - <b>Topological aspects of quantum theory.</b> Aharonov-Bohm effect, magnetic monopoles, geometric phases, Wilson lines
         - <b>Quantum aspects of waves.</b> Quantum interference
 
     - title: Classical Electrodynamics
