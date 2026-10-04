@@ -2,13 +2,18 @@
 layout: page
 title: teaching
 permalink: /teaching/
-description: '<span style="font-size: 1.3rem;">A collection of pedagogical articles, essays, notes, and philosophical reflections</span>'
+description: A collection of pedagogical articles, essays, notes, and philosophical reflections
 nav: true
 nav_order: 4
 horizontal: false
 ---
 
 
+<style>
+.post-description {
+  font-size: 1.3rem !important;
+}
+</style>
 
 <style>
 
