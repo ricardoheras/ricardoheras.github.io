@@ -5,10 +5,10 @@
 
 - title: Some useful information
   type: map
+  intro: PhD student in theoretical physics at the University of Birmingham
   contents:
-    - PhD student in theoretical physics at the University of Birmingham
     - name: Supervisor
-      value: Professor <a href="https://markrdennis.com/">Mark R. Dennis </a>
+      value: Professor <a href="https://markrdennis.com/">Mark R. Dennis</a>
     - name: Email 
       value: rxh579@student.bham.ac.uk 
     - name: Website 
@@ -19,7 +19,8 @@
       value: <a href="https://orcid.org/0000-0003-1234-2481">0000-0003-1234-2481</a>
     - name: ResearchGate
       value: <a href="https://www.researchgate.net/profile/Ricardo-Heras">link</a>
-  
+
+      
 - title: Research interests
   type: nested_list
   contents:
