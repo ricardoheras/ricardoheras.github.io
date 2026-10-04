@@ -138,10 +138,7 @@ horizontal: false
   <div class="research-content">
 
     <p class="research-description">
-      I am interested in the ways topology and geometry enter quantum theory,
-      particularly when gauge invariance, nonlocality, electromagnetic duality
-      and magnetic charge become directly connected with observable quantum
-      phases.
+      I am drawn to the geometric and topological side of quantum theory, especially to those situations in which electromagnetic interactions seem to conspire with geometry and topology. Gauge structure, nonlocality, electromagnetic duality and magnetic charge all belong to this picture. To me, the geometrisation of interaction is one of the most elegant ideas in quantum theory.
     </p>
 
 
