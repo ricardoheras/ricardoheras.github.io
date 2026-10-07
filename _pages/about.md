@@ -24,7 +24,7 @@ Welcome to my corner of the universe devoted to physics. I am a PhD student in t
 
 My research explores the fascinating connections between quantum mechanics and classical field theories, with a particular interest in the topological and geometric structures that emerge between them. These include the Aharonov–Bohm effect, geometric phases, magnetic monopoles, and related phenomena in which topology and geometry become directly intertwined. 
 
-Why do I do all of this? Because some ideas in physics are simply too beautiful to ignore
+Why do I do all this? Because some ideas in physics are simply too beautiful to ignore.
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
